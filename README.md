@@ -98,4 +98,4 @@ BCA | Machine Learning Enthusiast
 * **Accuracy comparison with Naive Bayes / SVM**
 * **Merged README for all your ML projects**
 
-Just say 👍
+
