@@ -93,9 +93,4 @@ The project demonstrates that **Logistic Regression**, when combined with proper
 **Gurarpit Singh**
 BCA | Machine Learning Enthusiast
 
-* **Flowchart-based README**
-* **Research-style abstract**
-* **Accuracy comparison with Naive Bayes / SVM**
-* **Merged README for all your ML projects**
-
 
